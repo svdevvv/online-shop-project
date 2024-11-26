@@ -2,8 +2,8 @@ package connection.connectionManager;
 
 
 import connection.properties.PropertiesUtil;
-import exception.ClosePoolException;
-import exception.ForNameException.ForNameException;
+import exception.closePoolException.ClosePoolException;
+import exception.forNameException.ForNameException;
 import exception.openException.OpenException;
 import exception.poolTakeException.PoolTakeException;
 
